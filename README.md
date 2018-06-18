@@ -7,18 +7,18 @@
 ####二、系统设计
 ####1.项目目录
  <p align="center">
-    <img src="https://github.com/qxuan512/FileFly/raw/master/FileFly-UdiskBackUp/images/目录.png" width="60%">
+    <img src="https://github.com/qxuan512/FileFly/raw/master/FileFly-UdiskBackUp/images/目录.png" width="30%">
     <br />    <small> 项目目录 </small>
 </p>
 </p>
 ####2.操作流程
  <p align="center">
-    <img src="/root/hexo/img/流程.png" width="60%">
+    <img src="https://github.com/qxuan512/FileFly/raw/master/FileFly-UdiskBackUp/images/流程.png" width="30%">
     <br />    <small> 操作流程 </small>
 </p>
 ####3.项目构成
 <p align="center">
-    <img src="/root/hexo/img/构成.png" width="60%">
+    <img src="https://github.com/qxuan512/FileFly/raw/master/FileFly-UdiskBackUp/images/构成.png" width="30%">
     <br />    <small> 项目构成 </small>
 </p>
 ###四、 结论
