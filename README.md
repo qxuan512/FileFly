@@ -18,7 +18,7 @@
 </p>
 ####3.项目构成
 <p align="center">
-    <img src="https://github.com/qxuan512/FileFly/raw/master/FileFly-UdiskBackUp/images/构成.png" width="50%">
+    <img src="https://github.com/qxuan512/FileFly/raw/master/FileFly-UdiskBackUp/images/构成.png" width="60%">
     <br />    <small> 项目构成 </small>
 </p>
 ###四、 结论
