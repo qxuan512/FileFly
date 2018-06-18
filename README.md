@@ -6,7 +6,10 @@
 > 此项目想法来源于身边的许多人频繁的丢失U盘，而且U中的重要资料还没有来得及备份，造成无法挽回的后果，所以萌生了设计U盘自动备份系统的想法。项目可实现U盘插入自动备份到本机，在从本机同步到云盘的功能，对丢失或忘带U盘实现资料恢复和云端获取资料。所使用云盘为七牛云，云盘同步工具为七牛云提供qshell工具。
 ####二、系统设计
 ####1.项目目录
- ![项目目录](https://github.com/qxuan512/FileFly/raw/master/FileFly-UdiskBackUp/images/目录.png)
+ <p align="center">
+    <img src="https://github.com/qxuan512/FileFly/raw/master/FileFly-UdiskBackUp/images/目录.png" width="60%">
+    <br />    <small> 项目目录 </small>
+</p>
 </p>
 ####2.操作流程
  <p align="center">
